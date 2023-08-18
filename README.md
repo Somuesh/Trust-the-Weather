@@ -1,12 +1,12 @@
 # You can try this app on [Trust-the-Web](https://trust-the-weather.onrender.com).
 
 # This is a Progressive Web App.
-Progressive Web Apps (PWAs) are applications that you build by using web technologies, and that can be installed and can run on all devices, from one codebase. PWAs provide native-like experiences to your users on supporting devices.
-
-# This react app passed all the lighthouse audits. And is well optimized to be used in production.
-
-# I didn't hide the API_KEYS: to let them be available to anyone in need.
+_Progressive Web Apps (PWAs) are applications that you build by using web technologies, and that can be installed and can run on all devices, from one codebase. PWAs provide native-like experiences to your users on supporting devices._
 ------------------------------
+This react app passed all the lighthouse audits. And is well optimized to be used in production.
+
+I didn't hide the API_KEYS: to let them be available to anyone in need.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
